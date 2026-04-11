@@ -3,3 +3,4 @@ pandas
 biopython
 plotly
 fpdf
+bcrypt
